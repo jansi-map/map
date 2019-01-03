@@ -6,25 +6,14 @@
 "barber": "حلاق",
 "market": "سوق",
 "mall": "مجمع تجاري",
-"": "",
-"": "",
-"": "",
-"": "",
-"": "",
-"": "",
-"": "",
-"": "",
-"": ""   
-    :       
-       :   
-Shop        :    دكان
-Tools shop   :   مغلق
-Grocery      :    بقالة خضار
-Bakery      :    مخبز
-Mosque      :    مسجد
-Hairdresser   :  كوافير
-Police station  :  قسم شرطه
-Bus station   : محطة بص
-Train station  : محطة قطار
-Busport : مينا بصات
+"shop": "دكان",
+"tools shop": "مغلق",
+"grocery": "بقالة خضار",
+"bakery": "مخبز",
+"mosque": "مسجد",
+"hairdresser": "كوافير",
+"police station": "قسم شرطه",
+"bus station": "محطة بص",
+"train station": "محطة قطار",   
+"busport":"مينا بصات",
 }
