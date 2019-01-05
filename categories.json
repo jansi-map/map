@@ -12,8 +12,9 @@
 "bakery": "مخبز",
 "mosque": "مسجد",
 "hairdresser": "كوافير",
-"police station": "قسم شرطه",
-"bus station": "محطة بص",
-"train station": "محطة قطار",   
-"busport": "ميناء بصات"
+"police-station": "قسم شرطه",
+"bus-station": "محطة بص",
+"train-station": "محطة قطار",   
+"busport": "ميناء بصات",
+"coffee-shop": "مقهى"
 }
