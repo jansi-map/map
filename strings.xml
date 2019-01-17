@@ -1,4 +1,4 @@
-<string name="gps_dialog_header"></string>
-<string name="gps_dialog_body"></string>
-<string name="gps_dialog_yes"></string>
-<string name="button_cancel"></string>
+<string name="gps_dialog_header">خدمة تحديد الموقع غير مفعلة</string>
+<string name="gps_dialog_body">برجاء تفعيل خدمة تحديد الموقع حتى يتمكن التطبيق من تحديد موقعك. لتحديد موقعك بدقة اعلى, برجاء تفعيل نظام تحديد المواقع GPS وخدمات المواقع عبر الشبكة اللاسلكية</string>
+<string name="gps_dialog_yes">اذهب الى خدمات الموقع</string>
+<string name="button_cancel">الغاء</string>
