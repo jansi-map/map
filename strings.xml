@@ -2,3 +2,9 @@
 <string name="gps_dialog_body">برجاء تفعيل خدمة تحديد الموقع حتى يتمكن التطبيق من تحديد موقعك. لتحديد موقعك بدقة اعلى, برجاء تفعيل نظام تحديد المواقع GPS وخدمات المواقع عبر الشبكة اللاسلكية</string>
 <string name="gps_dialog_yes">اذهب الى خدمات الموقع</string>
 <string name="button_cancel">الغاء</string>
+<string name="action_my_account">حسابي</string>
+<string name="action_help">مساعده</string>
+<string name="action_my_position">مكاني</string>
+<string name="button_select_destination">تحديد الوجهه</string>
+<string name="button_open_ride">مشوار مفتوح</string>
+<string name="hint_startup">حدد وجهتك على الخريطه او اختر مشوار مفتوح</string>
